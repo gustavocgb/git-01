@@ -1,0 +1,31 @@
+documentação github
+- create ssh
+  https://docs.github.com/pt/enterprise-server@3.2/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+- git
+https://petcomputacaoufrgs.github.io/intro-ao-git/git-reset-git-restore.html
+
+histórico
+- git log
+- git log --oneline
+
+atualizar local
+- git pull
+
+status 
+- git status
+
+commit
+- git commit <file> -m "mensagem"
+ou
+- git add .
+- git commit -m "mensagem"
+ou
+- git commit . -m "mensagem"
+
+push
+- git push <branch>
+
+voltar commit
+- git restore --source <id> <file>
+- git revert <id>
