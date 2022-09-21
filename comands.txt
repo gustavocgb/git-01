@@ -5,9 +5,16 @@ documentação github
 - git
 https://petcomputacaoufrgs.github.io/intro-ao-git/git-reset-git-restore.html
 
+- git log cheatsheet
+https://devhints.io/git-log
+
 histórico
 - git log
 - git log --oneline
+- git log -p
+- git log --author="user_name"
+- git log --since=1.month.ago --until=1.day.ago
+- git log --pretty="format:%h %s"
 
 atualizar local
 - git pull
