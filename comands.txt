@@ -48,3 +48,6 @@ voltar commit
 
 criar branch
 - git checkout -b <name>
+
+trocar branch
+- git checkout <name>
