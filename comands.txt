@@ -39,3 +39,6 @@ push
 voltar commit
 - git restore --source <id> <file>
 - git revert <id>
+
+merge
+- git merge <branch>
