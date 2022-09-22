@@ -46,8 +46,12 @@ voltar commit
 - git restore --source <id> <file>
 - git revert <id>
 
+branchs
+- git branch
+
 criar branch
 - git checkout -b <name>
 
 trocar branch
 - git checkout <name>
+
