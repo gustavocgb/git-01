@@ -8,6 +8,9 @@ https://petcomputacaoufrgs.github.io/intro-ao-git/git-reset-git-restore.html
 - git log cheatsheet
 https://devhints.io/git-log
 
+- git clone
+https://git-scm.com/docs/git-clone
+
 histórico
 - git log
 - git log --oneline
