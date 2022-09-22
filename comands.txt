@@ -14,6 +14,8 @@ https://git-scm.com/docs/git-clone
 - open source
 https://www.alura.com.br/artigos/open-source-uma-breve-introducao
 
+- resumo
+https://guilhermeonrails.github.io/manual-do-git-e-github/
 
 Comandos:
 
